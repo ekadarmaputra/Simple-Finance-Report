@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Simple Finance Report</string>
+    <string name="name_hint">Nama Barang</string>
+    <string name="quantity_hint">Quantity</string>
+    <string name="date_hint">Tanggal Masuk Barang</string>
+
+    <!-- error validation message -->
+    <string name="error_empty_name">Isian nama tidak boleh kosong</string>
+    <string name="error_empty_quantity">Isian quantity tidak boleh kosong</string>
+    <string name="error_empty_date">Isian tanggal masuk barang tidak boleh kosong</string>
+
+    <!-- alert dialog text -->
+    <string name="alert_dialog_on_delete_item">Apakah anda yakin ingin menghapus data ini?</string>
+
+</resources>
